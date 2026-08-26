@@ -343,7 +343,7 @@ npm run dev
 
 ## 📌 Project Status
 
-NerdDNest API represents the backend layer of a feature-rich social networking platform.
+NerddNest API represents the backend layer of a feature-rich social networking platform.
 
 The project demonstrates practical backend development involving **REST APIs, authentication, relational data, social relationships, content management, business logic, and frontend/backend integration**.
 
